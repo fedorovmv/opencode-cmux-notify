@@ -1,0 +1,15 @@
+{
+  "name": "opencode-notify-cmux",
+  "version": "1.0.0",
+  "description": "OpenCode plugin that sends local cmux notifications when a session is waiting, fails, complete, or needs permission.",
+  "main": "hooks.js",
+  "type": "module",
+  "keywords": [
+    "opencode",
+    "cmux",
+    "notifications",
+    "plugin"
+  ],
+  "author": "fedorovmv",
+  "license": "MIT"
+}

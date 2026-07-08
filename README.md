@@ -65,8 +65,6 @@ Add the absolute file path to the `"plugin"` array in `~/.config/opencode/openco
   "$schema": "https://opencode.ai/config.json",
   "autoupdate": true,
   "plugin": [
-    "superpowers@git+https://github.com/obra/superpowers.git",
-    "oh-my-opencode-slim",
     "/<your_home_dir>/.config/opencode/plugins/opencode-notify-cmux/hooks.js"
   ]
 }
